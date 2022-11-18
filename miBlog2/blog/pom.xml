@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sistema.blog</groupId>
-	<artifactId>sistema-blog-spring-boot-api-rest</artifactId>
+	<artifactId>miBlog</artifactId>
 	<version>1.0</version>
 	<name>sistema-blog-spring-boot-api-rest</name>
-	<description>Demo project for Spring Boot</description>
+	<description>miBlog</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
